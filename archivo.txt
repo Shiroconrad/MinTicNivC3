@@ -1,0 +1,7 @@
+Iniciar repo en git
+crear carpeta 
+git bash here
+git init
+git config --global user.email 'shirsworlds@gmail.com'
+git config --global user.name 'Shirley Orozco'
+
